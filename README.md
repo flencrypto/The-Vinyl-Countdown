@@ -46,7 +46,7 @@ The Vinyl Vault is a mobile-first **digital vault for vinyl collectors**: scan r
 
 - **Monorepo**: Turborepo + pnpm workspaces
 - **Client**: Expo (React Native + Web/PWA), React Native Web, optional Next.js dashboard
-- **UI**: Tailwind CSS + NativeWind + shadcn/ui + Tamagui
+- **UI**: NativeWind as the primary cross-platform styling system; use shadcn/ui only for the optional Next.js dashboard
 - **State**: Zustand + TanStack Query + Supabase Realtime
 - **Scanning**: react-native-vision-camera (ML Kit / Vision), web fallback via ZXing
 - **Backend**: Supabase (Postgres, Auth, Storage, Realtime, Edge Functions)
