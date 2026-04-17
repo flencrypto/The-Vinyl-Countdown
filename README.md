@@ -29,7 +29,7 @@ The Vinyl Vault is a mobile-first **digital vault for vinyl collectors**: scan r
 
 ### 4) Listening & Engagement
 - Play logs, ratings, reviews, notes
-- Vault Show album highlights/feed integration
+- The Vinyl Vault Show album highlights/feed integration
 
 ### 5) Accounts & Profiles
 - Secure auth
